@@ -1,13 +1,3 @@
-/**
- * Copyright (C) 2021 Arbena Musa, Fatbardh Kadriu. All rights reserved
- *
- * @file  stencil.cpp
- *
- * @brief Implements the main functionality
- * 
- * @authors Arbena Musa, Fatbardh Kadriu ({arbena.musa, fatbardh.kadriu}@student.uni-pr.edu)
- * @date   $Date: Thur, Jan 06, 2022$
- */
 #include <omp.h>
 #include <iostream>
 #include <iomanip>
